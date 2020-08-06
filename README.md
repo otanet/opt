@@ -4,7 +4,7 @@ This repo deals with Mathematical optimization, Operations Research(OR)
 # Requirements
 pulp
 numpy
-# pulpのインストール 
+# pulpのインストール  # https://pypi.org/project/PuLP/
 pip install -U pulp # Linux
 pip3 install -U pulp  # macOS
 
