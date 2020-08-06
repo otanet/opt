@@ -5,7 +5,7 @@ This repo deals with Mathematical optimization, Operations Research(OR)
 pulp
 numpy
 # pulpのインストール 
-pip install -U pulp # Linux \\
+pip install -U pulp # Linux
 pip3 install -U pulp  # macOS
 
 1. 線形最適化とは
