@@ -1,4 +1,4 @@
-# opt(mathematical optimization)
+# opt(mathematical optimization: 数理最適化)
 This repo deals with Mathematical optimization, Operations Research(OR) 
 
 # Requirements
