@@ -18,3 +18,6 @@ pip3 install -U pulp  # macOS
 - 変数：意思決定の対象。
 - 目的関数：評価するための関数。最大化か最小化を選べます。
 - 制約条件：満たすべき条件。 
+
+※　「ORを探せ！－暮らしに溶け込むOR －」
+http://www.orsj.or.jp/members/poster.pdf
